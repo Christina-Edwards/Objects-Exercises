@@ -23,9 +23,9 @@ function Student(name, grade, subject) {
 }
 
 // Step 2: Create three student instances
-const student1 = new Student("Alice", 10, "Mathematics");
-const student2 = new Student("Brian", 11, "History");
-const student3 = new Student("Chloe", 12, "Biology");
+const student1 = new Student("Clementine", 10, "Mathematics");
+const student2 = new Student("Lockhart", 11, "History");
+const student3 = new Student("Price", 12, "Biology");
 
 // Step 3: Introduce each student and simulate finishing the school year
 student1.introduce();
